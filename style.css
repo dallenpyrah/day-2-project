@@ -1,0 +1,130 @@
+body{
+    color: rgb(0, 0, 0);
+    margin: auto;
+}
+
+.border{
+    border: 10px;
+}
+
+
+.main-title{
+    background-color:rgb(255, 37, 37);
+    color: white;
+}
+
+
+
+.main-text{
+    width: 35%;
+    margin: auto;
+}
+
+.padding{
+    padding: 2px;
+}
+
+.small-padding{
+    padding: 10px;
+    padding-top: 1px;
+}
+
+.medium-padding{
+    padding: 10px;
+    padding-top: 100px;
+}
+
+
+.large-padding{
+    padding: 40px;
+}
+
+.text-align{
+    text-align: center;
+}
+
+footer{
+    background-color:rgb(255, 37, 37);
+    color: white;
+    align-items: baseline;
+}
+
+.align-items-center{
+    align-items: center;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
+
+.font-size{
+    font-size: 150%;
+}
+
+.font-size-small{
+    font-size: 120%;
+}
+
+.font-size-largest{
+    font-size: 170%;
+}
+
+.font-weight{
+    font-weight: bold;
+}
+
+.article{
+    position: absolute;
+    top: 40%;
+    left: 80%;
+    width: 15%;
+}
+.second-article{
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    width: 15%;
+}
+
+.block-article{
+    background-color:rgb(255, 37, 37);
+    color: white;
+    padding: 45px;
+    position: absolute;
+    left: 80%;
+    top: 25%;
+    width: 10%;
+}
+
+.second-block-article{
+    background-color:rgb(255, 37, 37);
+    color: white;
+    padding: 45px;
+    position: absolute;
+    left: 80%;
+    top: 65%;
+    width: 10%;
+}
+
+.block-main{
+    background-color:rgb(255, 53, 53);
+    color: white;
+    position: absolute;
+    left: 37%;
+    top: 25%;
+    width: 26%;
+    height: 3%;
+}
+
+.article-image{
+    width: 50%;
+}
+
+.width{
+    width: 25%;
+}
+
+.height{
+    height: 25%;
+    margin-bottom: auto;
+}
